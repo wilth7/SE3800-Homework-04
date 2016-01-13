@@ -10,5 +10,7 @@ The project uses JUNIT version 3.8.1
 The project builds with Maven 3.3.9
 
 Commands: 
+
 cd SE3800_Ex3
+
 mvn test
